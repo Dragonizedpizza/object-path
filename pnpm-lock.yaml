@@ -1,0 +1,19 @@
+lockfileVersion: 5.3
+
+specifiers:
+  '@hurricano/ts-config': ^1.1.0
+  '@types/node': ^17.0.43
+
+dependencies:
+  '@hurricano/ts-config': 1.1.0
+  '@types/node': 17.0.43
+
+packages:
+
+  /@hurricano/ts-config/1.1.0:
+    resolution: {integrity: sha512-ZVSXxfSgmHc24gXTMC8UagjMgHThac8C2u9spTt77LWWVUiipZAN4XwSBoZMlQ1NMNV4BGw1QYL1CSNLTTMmKg==}
+    dev: false
+
+  /@types/node/17.0.43:
+    resolution: {integrity: sha512-jnUpgw8fL9kP2iszfIDyBQtw5Mf4/XSqy0Loc1J9pI14ejL83XcCEvSf50Gs/4ET0I9VCCDoOfufQysj0S66xA==}
+    dev: false

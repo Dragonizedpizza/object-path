@@ -1,0 +1,7 @@
+{
+    "extends": "@hurricano/ts-config",
+    "compilerOptions": {
+        "lib": ["ES2022"],
+        "outDir": "dist"
+    }
+}
