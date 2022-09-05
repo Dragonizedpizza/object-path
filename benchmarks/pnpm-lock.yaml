@@ -1,0 +1,39 @@
+lockfileVersion: 5.3
+
+specifiers:
+    "@mariocasciaro/benchpress": ^0.2.0
+    lodash: ^4.17.21
+    object-path: ^0.11.8
+
+dependencies:
+    "@mariocasciaro/benchpress": 0.2.0
+    lodash: 4.17.21
+    object-path: 0.11.8
+
+packages:
+    /@mariocasciaro/benchpress/0.2.0:
+        resolution: { integrity: sha512-2sDENuPqBShbq9423dTeefpQTfd/GfSRh//uxAAgBeeHGo8fwoSOMOW7pJyjVLk04GPOMGAvMxvT2vfGxaXIVg== }
+        dependencies:
+            async: 2.3.0
+            progress: 1.1.8
+        dev: false
+
+    /async/2.3.0:
+        resolution: { integrity: sha512-uDDBwBVKsWWe4uMmvVmFiW07K5BmdyZvSFzxlujNBtSJ/qzAlGM6UHOFZsQd5jsdmWatrCMWwYyVAc8cuJrepQ== }
+        dependencies:
+            lodash: 4.17.21
+        dev: false
+
+    /lodash/4.17.21:
+        resolution: { integrity: sha512-v2kDEe57lecTulaDIuNTPy3Ry4gLGJ6Z1O3vE1krgXZNrsQ+LFTGHVxVjcXPs17LhbZVGedAJv8XZ1tvj5FvSg== }
+        dev: false
+
+    /object-path/0.11.8:
+        resolution: { integrity: sha512-YJjNZrlXJFM42wTBn6zgOJVar9KFJvzx6sTWDte8sWZF//cnjl0BxHNpfZx+ZffXX63A9q0b1zsFiBX4g4X5KA== }
+        engines: { node: ">= 10.12.0" }
+        dev: false
+
+    /progress/1.1.8:
+        resolution: { integrity: sha512-UdA8mJ4weIkUBO224tIarHzuHs4HuYiJvsuGT7j/SPQiUJVjYvNDBIPa0hAorduOfjGohB/qHWRa/lrrWX/mXw== }
+        engines: { node: ">=0.4.0" }
+        dev: false
